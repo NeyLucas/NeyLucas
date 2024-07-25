@@ -1,8 +1,8 @@
 <h1>👋 Oi, aqui é o Ney Lucas! Seja bem vindo!</h1>
 <h4>Explorador de código e sempre em evolução no mundo da Ciência da Computação. 🙋‍♂️</h4>
 
-!(https://github-readme-stats.vercel.app/api?username=NeyLucas&theme=codeSTACKr&show_icons=true)
-!(https://github-readme-stats.vercel.app/api/top-langs/?username=NeyLucas&theme=codeSTACKr&layout=compact)
+![Ney Lucas's Github Stats](https://github-readme-stats.vercel.app/api?username=NeyLucas&theme=codeSTACKr&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeyLucas&theme=codeSTACKr&layout=compact)
 
 <h2>💪 O que domino:</h2>
 <div style="display: flex">
