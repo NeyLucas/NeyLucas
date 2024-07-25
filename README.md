@@ -2,7 +2,7 @@
 <h4>Explorador de código e sempre em evolução no mundo da Ciência da Computação. 🙋‍♂️</h4>
 
 ![Ney Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=NeyLucas&theme=codeSTACKr&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeyLuca&theme=codeSTACKr&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeyLucas&theme=codeSTACKr&layout=compact)
 
 <h2>💪 O que domino:</h2>
 <div style="display: flex">
