@@ -18,7 +18,7 @@
 </p>
 
 <p>
-  Hoje, meu foco é construir uma base sólida em <b>desenvolvimento Web e Mobile</b>, criando projetos práticos como este para me preparar para o mercado e conseguir uma oportunidade de estágio. Estou mergulhando no ecossistema Full-Stack, aprendendo a conectar o front-end, o back-end, bancos de dados e APIs para criar soluções completas e funcionais.
+  Hoje, meu foco é construir uma base sólida em <b>desenvolvimento Web e Mobile</b>, criando projetos práticos para me preparar para o mercado e conseguir uma oportunidade de estágio. Estou mergulhando no ecossistema Full-Stack, aprendendo a conectar o front-end, o back-end, bancos de dados e APIs para criar soluções completas e funcionais.
 </p>
 
 ---
@@ -89,7 +89,7 @@
 
 ## 📫 Entre em Contato
 
-<p>Estou em busca da minha primeira oportunidade como estagiário. Vamos nos conectar!</p>
+<p>Vamos nos conectar!</p>
 <p>
   <a href="https://www.linkedin.com/in/ney-lucas-a72b89353/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
