@@ -71,15 +71,9 @@
 <div align="center">
 
 ## 📊 Minhas Estatísticas no GitHub
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NeyLucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeyLucas&layout=compact&langs_count=7&theme=tokyonight"/>
-</a>
-<br>
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeyLucas&theme=tokyonight" alt="GitHub Streak" />
-</a>
+![NeyLucas's Stats](https://github-readme-stats.vercel.app/api?username=NeyLucas&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![NeyLucas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NeyLucas&theme=tokyonight&hide_border=true)
+![NeyLucas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NeyLucas&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 </div>
 
